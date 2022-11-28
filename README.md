@@ -46,7 +46,7 @@
 
 
 
-## Илюстрация работы калькулятора
+## Илюстрация работы приложения
 
 ![GifRes](https://user-images.githubusercontent.com/96730744/197640702-ca911174-4dd6-4d31-bab0-1694fa052aef.gif)
 
