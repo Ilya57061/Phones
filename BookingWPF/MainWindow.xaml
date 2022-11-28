@@ -34,6 +34,6 @@
                 </DataGridTemplateColumn>
             </DataGrid.Columns>
         </DataGrid>
-        <Button x:Name="NewWindow" Content="Add new model" HorizontalAlignment="Left" Margin="433,10,0,0" VerticalAlignment="Top" Click="newWindowButton_Click" Width="136" Height="30"/>
+        <Button x:Name="NewWindow" Content="Add new model" HorizontalAlignment="Left" Margin="433,10,0,0" VerticalAlignment="Top" Click="NewWindowButton_Click" Width="136" Height="30"/>
     </Grid>
 </Window>

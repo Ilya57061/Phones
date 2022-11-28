@@ -10,8 +10,8 @@
         <TextBox x:Name="TitleTb" HorizontalAlignment="Center" Margin="0,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="32"/>
         <TextBox x:Name="CompanyTb" HorizontalAlignment="Center" Margin="0,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="32"/>
         <TextBox x:Name="PriceTb" HorizontalAlignment="Center" Margin="0,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="32"/>
-        <Button x:Name="NewPhone" Content="Add new model" HorizontalAlignment="Left" Margin="285,169,0,0" VerticalAlignment="Top" Click="addButton_Click" Width="136" Height="30"/>
-        <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="83,169,0,0" VerticalAlignment="Top" Click="cancelButton_Click" Width="136" Height="30"/>
+        <Button x:Name="NewPhone" Content="Add new model" HorizontalAlignment="Left" Margin="285,169,0,0" VerticalAlignment="Top" Click="AddButton_Click" Width="136" Height="30"/>
+        <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="83,169,0,0" VerticalAlignment="Top" Click="CancelButton_Click" Width="136" Height="30"/>
         <Label Content="Модель:&#xD;&#xA;" HorizontalAlignment="Left" Margin="101,18,0,0" VerticalAlignment="Top" Height="29"/>
         <Label Content="Производитель:" HorizontalAlignment="Left" Margin="59,72,0,0" VerticalAlignment="Top"/>
         <Label Content="Цена:" HorizontalAlignment="Left" Margin="111,125,0,0" VerticalAlignment="Top"/>

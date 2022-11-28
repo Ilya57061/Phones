@@ -12,10 +12,6 @@ namespace Booking.Model.Database
         //{
 
         //}
-        public ApplicationContext()
-        {
-
-        }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
