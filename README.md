@@ -48,5 +48,6 @@
 
 ## Илюстрация работы приложения
 
-![GifRes](https://user-images.githubusercontent.com/96730744/197640702-ca911174-4dd6-4d31-bab0-1694fa052aef.gif)
+![GifRes](https://user-images.githubusercontent.com/81263807/204381303-b5080ba8-3d68-4f8f-8819-bea0b15ba0df.gif)
+
 
